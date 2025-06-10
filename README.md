@@ -11,4 +11,8 @@
 ```
 docker-composer up -d
 ```
+6. Ejecutar SEED para inicializar base de datos con valores (GET)
+```
+http://localhost:3000/api/seed
+```
 6. Levantar: ```yarn start:dev```
